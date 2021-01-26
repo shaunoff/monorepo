@@ -1,0 +1,14 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "Monorepo lunch and learn",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunoff/monorepo.git"
+  },
+  "author": "Shaun Hutch",
+  "license": "ISC",
+  "homepage": "https://github.com/shaunoff/monorepo#readme",
+  "private": true
+}
