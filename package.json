@@ -10,5 +10,8 @@
   "author": "Shaun Hutch",
   "license": "ISC",
   "homepage": "https://github.com/shaunoff/monorepo#readme",
-  "private": true
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
 }
