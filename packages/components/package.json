@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/components",
-  "version": "0.0.3",
+  "version": "0.2.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
@@ -23,7 +23,7 @@
     "typescript": "^4.0.3"
   },
   "dependencies": {
-    "@monorepo/types": "^0.0.3",
+    "@monorepo/types": "^0.2.0",
     "react": "^17.0.1"
   },
   "scripty": {

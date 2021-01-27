@@ -5,12 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 0.2.0 (2021-01-27)
 
-**Note:** Version bump only for package @monorepo/components
 
+### Features
 
-
-
-
-## 0.0.3 (2021-01-27)
-
-**Note:** Version bump only for package @monorepo/components
+* app ([#11](https://github.com/shaunoff/monorepo/issues/11)) ([e40befc](https://github.com/shaunoff/monorepo/commit/e40befcc3b6b4d48df5f52b60137ba8a9d004d44))
