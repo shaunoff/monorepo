@@ -1,1 +1,1 @@
-export { Bread } from './types';
+export { Bread } from './types'
