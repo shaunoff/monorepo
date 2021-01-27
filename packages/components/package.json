@@ -8,6 +8,7 @@
   },
   "scripts": {
     "lint": "eslint src --ext js,ts",
+    "clean": "rimraf dist *.tsbuildinfo",
     "build": "tsc -b .",
     "test": "jest"
   },
