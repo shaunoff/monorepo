@@ -3,7 +3,7 @@
  */
 export interface Bread {
   name: string
-  src: any
+  src: unknown
   price: string
   description: string
 }
