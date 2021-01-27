@@ -1,1 +1,1 @@
-export { BreadCard, Header } from './components';
+export { BreadCard, Header } from './components'
