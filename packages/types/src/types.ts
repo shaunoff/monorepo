@@ -6,4 +6,5 @@ export interface Bread {
   src: unknown
   price: string
   description: string
+  cals: number
 }

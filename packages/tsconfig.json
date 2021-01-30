@@ -3,6 +3,7 @@
   "references": [
     { "path": "components" },
     { "path": "types" },
-    { "path": "ui" }
+    { "path": "ui" },
+    { "path": "webApp" }
   ]
 }

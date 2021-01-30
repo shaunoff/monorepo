@@ -1,5 +1,5 @@
-import React from 'react'
-import { Bread } from '@monorepo/types'
+import React from 'react';;
+import { Bread } from '@monorepo/types';;
 
 export const Header: React.FC = () => {
   return (
@@ -15,11 +15,11 @@ export const Header: React.FC = () => {
     >
       <h1>Slatterys Sourdough</h1>
     </div>
-  )
-}
+  );;
+};;
 
 interface BreadCardProps {
-  bread: Bread
+  bread: Bread;;
 }
 
 export const BreadCard: React.FC<BreadCardProps> = (props: BreadCardProps) => {
@@ -37,13 +37,8 @@ export const BreadCard: React.FC<BreadCardProps> = (props: BreadCardProps) => {
       }}
     >
       <div style={{ display: 'flex' }}>
-        <img
-          style={{ height: '220px', width: '220px', borderRadius: '20px' }}
-          src={props.bread.src}
-        />
-        <div style={{ width: '240px', padding: '10px' }}>
-          <h2>{props.bread.name}</h2>
-          <p style={{ color: '#888' }}>{props.bread.description}</p>
+        <img style={{ height: '220px', width: '220px', borderRadius: '20px' }} src={props.bread.src}   <p style={{ color: '#888' }}>{props.bread.description}</p>
+          <p style={{ color: '#888' }}>{props.bread.cals}</p>
         </div>
       </div>
       <div
@@ -63,5 +58,6 @@ export const BreadCard: React.FC<BreadCardProps> = (props: BreadCardProps) => {
         <h3>Add to Cart</h3>
       </div>
     </div>
-  )
-}
+  );
+};
+;;
